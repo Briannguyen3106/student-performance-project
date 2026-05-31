@@ -227,12 +227,12 @@ fig.savefig("../report/figures/eda_g3_distribution.png", dpi=150, bbox_inches="t
 ## 8. Progress tracking
 
 ### Phase 1 — EDA
-- [ ] Mô tả dataset (shape, dtypes, value counts)
-- [ ] Thống kê mô tả cho biến numeric
-- [ ] Phân phối G3 (histogram + boxplot)
-- [ ] Missing value & outlier analysis
-- [ ] Visualizations: barplot theo nhóm, correlation heatmap (Pearson + Cramér's V)
-- [ ] Export `student_mat_clean.csv`
+- [x] Mô tả dataset (shape, dtypes, value counts)
+- [x] Thống kê mô tả cho biến numeric
+- [x] Phân phối G3 (histogram + boxplot)
+- [x] Missing value & outlier analysis
+- [x] Visualizations: barplot theo nhóm, correlation heatmap (Pearson + Cramér's V)
+- [x] Export `student_mat_clean.csv`
 
 ### Phase 2 — Hypothesis testing
 - [ ] Kiểm tra normality (Shapiro-Wilk) cho từng nhóm
