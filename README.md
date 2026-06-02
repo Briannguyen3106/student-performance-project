@@ -138,7 +138,7 @@ Chạy các notebook **theo đúng thứ tự**. Mỗi notebook phụ thuộc v�
 |---|---|---|---|
 | **[Nguyễn Danh Bảo]** | Phase 1 — EDA | `01_EDA.ipynb` | 1/6 |
 | **[Tên A]** | Phase 6 — Measurement theory | section trong báo cáo | 12/6 |
-| **[Tên B]** | Phase 2 — Hypothesis testing | `02_hypothesis_testing.ipynb` | 5/6 |
+| **Trung** | Phase 2 — Hypothesis testing | `02_hypothesis_testing.ipynb` | 5/6 |
 | **[Tên B]** | Phase 3 — CI + Bootstrap + Power | `03_confidence_intervals.ipynb` | 5/6 |
 | **[Tên C]** | Phase 4 — Regression | `04_regression.ipynb` | 5/6 |
 | **[Tên C]** | Phase 5 — DoE simulation | `05_doe_simulation.ipynb` | 5/6 |
