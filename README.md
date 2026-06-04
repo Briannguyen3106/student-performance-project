@@ -235,15 +235,17 @@ fig.savefig("../report/figures/eda_g3_distribution.png", dpi=150, bbox_inches="t
 - [x] Export `student_mat_clean.csv`
 
 ### Phase 2 — Hypothesis testing
-- [ ] Kiểm tra normality (Shapiro-Wilk) cho từng nhóm
-- [ ] H1: t-test sex × G3
-- [ ] H2: t-test address × G3
-- [ ] H3: t-test famsup × G3
-- [ ] H4: ANOVA studytime × G3
-- [ ] H5: Spearman Walc ↔ G3
-- [ ] H6: t-test higher × G3
-- [ ] H7: ANOVA failures × G3
-- [ ] Effect size cho tất cả tests
+- [x] Kiểm tra normality (Shapiro-Wilk) cho từng nhóm
+- [x] H1: t-test sex × G3 (Mann-Whitney U fallback)
+- [x] H2: t-test address × G3 (Mann-Whitney U fallback)
+- [x] H3: t-test famsup × G3 (Mann-Whitney U fallback)
+- [x] H4: ANOVA studytime × G3 (Kruskal-Wallis fallback)
+- [x] H5: Spearman Walc ↔ G3
+- [x] H6: t-test higher × G3 (Mann-Whitney U fallback)
+- [x] H7: ANOVA failures × G3 (Kruskal-Wallis fallback)
+- [x] H8: ANOVA Medu, Fedu × G3 (bổ sung - Kruskal-Wallis fallback)
+- [x] H9: Spearman absences ↔ G3 (post-hoc)
+- [x] Effect size cho tất cả tests
 
 ### Phase 3 — Confidence intervals
 - [ ] Parametric CI cho mean G3 (95%)
