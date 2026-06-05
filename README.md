@@ -246,10 +246,10 @@ fig.savefig("../report/figures/eda_g3_distribution.png", dpi=150, bbox_inches="t
 - [ ] Effect size cho tất cả tests
 
 ### Phase 3 — Confidence intervals
-- [ ] Parametric CI cho mean G3 (95%)
-- [ ] Bootstrap CI (n_bootstrap=5000) cho mean G3
-- [ ] CI cho sự khác biệt nam/nữ, urban/rural
-- [ ] Power analysis: với n=395, đạt power bao nhiêu ở effect size trung bình?
+- [x] Parametric CI cho mean G3 (95%)
+- [x] Bootstrap CI (n_bootstrap=5000) cho mean G3
+- [x] CI cho sự khác biệt nam/nữ, urban/rural
+- [x] Power analysis: với n=357, đạt power bao nhiêu ở effect size trung bình?
 
 ### Phase 4 — Regression
 - [ ] Model A: tất cả biến hành vi/xã hội (không có G1, G2)
