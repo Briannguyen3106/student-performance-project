@@ -1,0 +1,16 @@
+result_type,model,fold,metric,difference
+paired_B_minus_A,Model B - Model A,1,rmse,-2.899903461844197
+paired_B_minus_A,Model B - Model A,2,rmse,-2.0818806339692335
+paired_B_minus_A,Model B - Model A,3,rmse,-2.5436079792373345
+paired_B_minus_A,Model B - Model A,4,rmse,-2.0166099637866512
+paired_B_minus_A,Model B - Model A,5,rmse,-2.5623566902636994
+paired_B_minus_A,Model B - Model A,1,mae,-2.265064793032322
+paired_B_minus_A,Model B - Model A,2,mae,-2.073157642063814
+paired_B_minus_A,Model B - Model A,3,mae,-1.8923939554322642
+paired_B_minus_A,Model B - Model A,4,mae,-1.7644953915547652
+paired_B_minus_A,Model B - Model A,5,mae,-2.261876407489818
+paired_B_minus_A,Model B - Model A,1,r2,0.8508549111885197
+paired_B_minus_A,Model B - Model A,2,r2,0.7260416982446564
+paired_B_minus_A,Model B - Model A,3,r2,0.755482956049807
+paired_B_minus_A,Model B - Model A,4,r2,0.6525027107874734
+paired_B_minus_A,Model B - Model A,5,r2,0.6711739423975394
