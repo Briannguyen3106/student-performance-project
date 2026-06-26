@@ -2,8 +2,7 @@
 
 > **Học phần:** IT2022E — Thống kê ứng dụng và Quy hoạch thực nghiệm (Chương 7, CLO3–CLO4).
 > **Kế thừa:** [`01_tong_quan_va_pipeline.md`](01_tong_quan_va_pipeline.md) →
-> [`04_tuong_quan_va_hoi_quy.md`](04_tuong_quan_va_hoi_quy.md), khung
-> [`report/OUTLINE.md`](../OUTLINE.md) §5. *Nguồn:*
+> [`04_tuong_quan_va_hoi_quy.md`](04_tuong_quan_va_hoi_quy.md). *Nguồn:*
 > `notebooks/core/05_experimental_design.ipynb`; artifact `data/processed/doe_*.csv`.
 >
 > File này trả lời **Câu hỏi nghiên cứu Q4**: thiết kế một thí nghiệm đánh giá chương trình hỗ

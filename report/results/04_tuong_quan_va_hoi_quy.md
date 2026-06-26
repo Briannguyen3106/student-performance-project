@@ -2,8 +2,8 @@
 
 > **Học phần:** IT2022E — Thống kê ứng dụng và Quy hoạch thực nghiệm.
 > **Kế thừa:** [`01_tong_quan_va_pipeline.md`](01_tong_quan_va_pipeline.md) →
-> [`03_suy_luan_thong_ke.md`](03_suy_luan_thong_ke.md), khung [`report/OUTLINE.md`](../OUTLINE.md)
-> §4.4–§4.5. *Nguồn:* `notebooks/core/03_correlation_and_regression.ipynb`.
+> [`03_suy_luan_thong_ke.md`](03_suy_luan_thong_ke.md). *Nguồn:*
+> `notebooks/core/03_correlation_and_regression.ipynb`.
 >
 > File này trả lời **Câu hỏi nghiên cứu Q3**: các biến nền/hành vi có đủ **dự báo sớm** `G3`
 > không, và việc bổ sung điểm quá trình `G1`, `G2` thay đổi hiệu năng/cấu trúc liên hệ thế nào?
@@ -12,7 +12,7 @@
 > Model A = `failures + studytime + absences + C(school) + C(sex)`; Model B = Model A
 > `+ G1 + G2`. Đánh giá ở mức **in-sample** (độ phù hợp, hệ số có điều kiện, residual).
 > Các phân tích nâng cao — cross-validation/OOF, HC3, joint Wald, VIF, Breusch–Pagan,
-> sensitivity — thuộc **`notebooks/04_regression.ipynb`** với đặc tả đầy đủ (≈30 biến), được
+> sensitivity — thuộc **`notebooks/appendix/04_regression.ipynb`** với đặc tả đầy đủ (≈30 biến), được
 > giữ làm **PHỤ LỤC KỸ THUẬT** (xem Phụ lục IV-A) và **không** trùng số với mạch chính.
 
 ---
@@ -197,7 +197,7 @@ cao. Model A (chỉ biến nền/hành vi) giải thích **hạn chế** biến 
 
 ---
 
-## Phụ lục IV-A — Phân tích hồi quy mở rộng (`notebooks/04_regression.ipynb`)
+## Phụ lục IV-A — Phân tích hồi quy mở rộng (`notebooks/appendix/04_regression.ipynb`)
 
 > ⚠️ **Phần này là PHỤ LỤC KỸ THUẬT, không thuộc mạch trình bày chính.** Dùng **đặc tả đầy đủ**
 > (Model A = toàn bộ ≈30 biến nền/hành vi; Model B = thêm `G1/G2`) để kiểm tra độ bền vững của

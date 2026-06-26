@@ -1,10 +1,9 @@
 # PHẦN VI — SAI SỐ, HẠN CHẾ, THẢO LUẬN VÀ KẾT LUẬN
 
 > **Học phần:** IT2022E — Thống kê ứng dụng và Quy hoạch thực nghiệm.
-> **Kế thừa:** [`01`](01_tong_quan_va_pipeline.md) → [`05`](05_quy_hoach_thuc_nghiem.md);
-> khung [`report/OUTLINE.md`](../OUTLINE.md) Phần VI (báo cáo §6–§9). *Nguồn:*
-> tổng hợp toàn bộ phân tích + `notebooks/03_confidence_intervals.ipynb`,
-> `notebooks/04_regression.ipynb`.
+> **Kế thừa:** [`01`](01_tong_quan_va_pipeline.md) → [`05`](05_quy_hoach_thuc_nghiem.md). *Nguồn:*
+> tổng hợp toàn bộ phân tích + `notebooks/appendix/03_confidence_intervals.ipynb`,
+> `notebooks/appendix/04_regression.ipynb`.
 >
 > File này khép lại báo cáo: tổng hợp **các nguồn sai số và hạn chế**, **thảo luận** ý nghĩa,
 > **kết luận** trả lời 4 câu hỏi nghiên cứu, và **tài liệu tham khảo**. Theo quy ước, phần này
@@ -159,4 +158,4 @@ quy hoạch thực nghiệm trong một quy trình **có thể tái lập**.
 > [reg_residual_diagnostics](../figures/reg_residual_diagnostics.png) (§1.5).
 >
 > **Kết thúc bộ báo cáo chi tiết** (file 01–06). Mạch trình bày chính bám đề cương IT2022E;
-> các phân tích nâng cao được giữ ở phụ lục kỹ thuật. Khung tổng thể: [`report/OUTLINE.md`](../OUTLINE.md).
+> các phân tích nâng cao được giữ ở phụ lục kỹ thuật.

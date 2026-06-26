@@ -2,13 +2,13 @@
 
 > **Học phần:** IT2022E — Thống kê ứng dụng và Quy hoạch thực nghiệm.
 > **Kế thừa:** [`01_tong_quan_va_pipeline.md`](01_tong_quan_va_pipeline.md) (bối cảnh, mục
-> tiêu, pipeline) và khung [`report/OUTLINE.md`](../OUTLINE.md) §2.
+> tiêu, pipeline).
 >
 > File này trả lời **Câu hỏi nghiên cứu Q1** (phân phối `G3` và đặc điểm mẫu) ở mức mô tả, và
 > đặt nền **lý thuyết đo lường** cho mọi phân tích suy luận sau. Mọi kết quả ở đây là **mô tả
 > / khám phá (exploratory)** — không kết luận nhân quả và không dùng p-value EDA làm bằng
 > chứng xác nhận. *Nguồn:* `notebooks/core/01_data_preparation_and_eda.ipynb` và
-> `notebooks/01_EDA.ipynb`.
+> `notebooks/appendix/01_EDA.ipynb`.
 
 ---
 

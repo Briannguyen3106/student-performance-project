@@ -1,14 +1,14 @@
 # PHẦN III — SUY LUẬN THỐNG KÊ
 
 > **Học phần:** IT2022E — Thống kê ứng dụng và Quy hoạch thực nghiệm.
-> **Kế thừa:** [`01_tong_quan_va_pipeline.md`](01_tong_quan_va_pipeline.md),
-> [`02_du_lieu_va_ly_thuyet_do_luong.md`](02_du_lieu_va_ly_thuyet_do_luong.md) và khung
-> [`report/OUTLINE.md`](../OUTLINE.md) §4.2–§4.3.
+> **Kế thừa:** [`01_tong_quan_va_pipeline.md`](01_tong_quan_va_pipeline.md) và
+> [`02_du_lieu_va_ly_thuyet_do_luong.md`](02_du_lieu_va_ly_thuyet_do_luong.md).
 >
 > File này trả lời **Câu hỏi nghiên cứu Q2**: ước lượng khoảng tin cậy cho `G3` và kiểm định
 > 10 giả thuyết về mối liên hệ giữa `G3` với các biến nền/hành vi. *Nguồn:*
-> `notebooks/core/02_statistical_inference.ipynb`, `notebooks/02_hypothesis_testing.ipynb`,
-> `notebooks/03_confidence_intervals.ipynb`.
+> `notebooks/core/02_statistical_inference.ipynb`,
+> `notebooks/appendix/02_hypothesis_testing.ipynb`,
+> `notebooks/appendix/03_confidence_intervals.ipynb`.
 
 ---
 
